@@ -1,24 +1,11 @@
-# README
+# EXO ACTIVERECORDS - BLOG DE LA MIFF - PHOTO DE MOI A LA PLAGE
+POUR LA DARONNE
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+ruby -v 2.5.1
+rails -v 5.2.1
 
-Things you may want to cover:
+Avant tout, n'oubliez pas de faire un gem install faker & bundle install
 
-* Ruby version
+Pair-Programming : Paul Rivière (Blud7), Paul TrinDinh (askprod), Patrick Razafindrakoto (patpasha)
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+DECOUVERTE DE LA DATABASE ROR
